@@ -24,7 +24,7 @@
   },
   "containers": [
     {
-      "name": "cloud-claw-container-v2",
+      "name": "cloud-claw-container-v3",
       "class_name": "AgentContainer",
       "image": "./Dockerfile",
       "instance_type": {
